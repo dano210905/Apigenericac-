@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiGenerica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf7265a4f269b53e68643a3d75d441b65b16189e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9976e4b0545434cd85376e3932b4c4f0355a471")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiGenerica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiGenerica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
